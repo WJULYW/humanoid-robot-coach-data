@@ -1,0 +1,385 @@
+participant_id,contact,guidance_basis,exercise,movement_visibility,trunk_constraint,training_phase,execution_position,coaching_experience,gender,comfort,helpfulness,judgement_trust,movement_quality
+P01,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,1,Yes,male,4,3,2,5
+P01,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,1,Yes,male,4,4,4,5
+P01,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,2,Yes,male,4,4,4,5
+P01,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,2,Yes,male,3,2,3,4
+P01,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,3,Yes,male,4,4,4,4
+P01,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,3,Yes,male,4,4,4,3
+P01,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,4,Yes,male,4,3,4,3
+P01,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,4,Yes,male,4,3,4,3
+P02,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,1,No,male,4,4,5,2
+P02,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,1,No,male,5,5,5,3
+P02,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,2,No,male,4,4,5,4
+P02,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,2,No,male,4,4,5,4
+P02,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,3,No,male,4,5,5,3
+P02,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,3,No,male,3,4,5,3
+P02,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,4,No,male,4,4,5,2
+P02,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,4,No,male,4,4,5,3
+P03,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,1,No,male,4,3,3,1
+P03,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,1,No,male,5,4,3,1
+P03,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,2,No,male,5,4,3,3
+P03,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,2,No,male,4,3,3,3
+P03,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,3,No,male,4,4,2,2
+P03,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,3,No,male,4,5,3,2
+P03,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,4,No,male,4,4,1,3
+P03,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,4,No,male,3,3,1,2
+P04,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,1,Yes,male,3,2,3,3
+P04,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,1,Yes,male,3,4,4,3
+P04,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,2,Yes,male,4,4,4,3
+P04,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,2,Yes,male,4,2,3,3
+P04,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,3,Yes,male,3,2,3,2
+P04,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,3,Yes,male,3,2,3,3
+P04,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,4,Yes,male,3,2,3,3
+P04,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,4,Yes,male,3,2,3,3
+P05,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,1,No,female,4,4,5,2
+P05,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,1,No,female,4,4,5,2
+P05,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,2,No,female,4,4,5,1
+P05,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,2,No,female,4,5,5,1
+P05,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,3,No,female,4,5,5,3
+P05,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,3,No,female,5,5,5,3
+P05,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,4,No,female,5,5,5,2
+P05,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,4,No,female,5,5,5,2
+P06,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,1,No,male,4,4,4,4
+P06,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,1,No,male,4,4,4,4
+P06,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,2,No,male,4,4,4,4
+P06,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,2,No,male,4,4,4,4
+P06,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,3,No,male,4,4,4,2
+P06,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,3,No,male,4,4,4,2
+P06,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,4,No,male,4,4,4,3
+P06,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,4,No,male,4,4,4,4
+P07,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,1,No,female,4,4,4,2
+P07,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,1,No,female,3,3,4,1
+P07,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,2,No,female,4,4,4,3
+P07,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,2,No,female,3,5,4,2
+P07,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,3,No,female,4,4,4,2
+P07,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,3,No,female,4,4,4,2
+P07,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,4,No,female,4,5,5,3
+P07,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,4,No,female,4,5,4,3
+P08,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,1,No,female,4,4,3,1
+P08,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,1,No,female,4,4,4,2
+P08,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,2,No,female,4,4,4,3
+P08,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,2,No,female,4,4,3,3
+P08,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,3,No,female,4,4,4,3
+P08,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,3,No,female,4,4,4,3
+P08,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,4,No,female,4,4,3,3
+P08,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,4,No,female,4,4,4,3
+P09,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,1,No,female,4,5,3,3
+P09,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,1,No,female,4,4,3,2
+P09,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,2,No,female,5,5,4,3
+P09,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,2,No,female,5,4,5,3
+P09,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,3,No,female,5,5,5,2
+P09,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,3,No,female,5,5,4,3
+P09,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,4,No,female,5,5,5,3
+P09,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,4,No,female,5,5,5,3
+P10,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,1,No,male,4,4,4,3
+P10,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,1,No,male,4,4,4,2
+P10,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,2,No,male,5,5,4,2
+P10,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,2,No,male,5,4,4,1
+P10,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,3,No,male,5,4,4,3
+P10,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,3,No,male,5,4,4,2
+P10,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,4,No,male,5,5,4,3
+P10,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,4,No,male,4,4,4,3
+P11,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,1,No,male,4,5,4,3
+P11,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,1,No,male,4,3,4,3
+P11,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,2,No,male,4,5,4,4
+P11,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,2,No,male,4,3,4,4
+P11,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,3,No,male,4,1,1,3
+P11,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,3,No,male,4,4,4,3
+P11,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,4,No,male,5,5,4,3
+P11,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,4,No,male,4,5,4,2
+P12,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,1,Yes,male,2,3,2,3
+P12,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,1,Yes,male,3,3,3,3
+P12,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,2,Yes,male,4,3,2,3
+P12,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,2,Yes,male,3,3,2,3
+P12,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,3,Yes,male,3,3,2,4
+P12,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,3,Yes,male,3,3,2,4
+P12,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,4,Yes,male,4,4,3,4
+P12,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,4,Yes,male,3,3,2,4
+P13,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,1,No,male,4,4,4,2
+P13,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,1,No,male,4,4,4,2
+P13,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,2,No,male,5,5,5,3
+P13,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,2,No,male,5,5,5,3
+P13,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,3,No,male,5,4,4,2
+P13,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,3,No,male,5,4,5,2
+P13,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,4,No,male,5,5,5,3
+P13,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,4,No,male,5,5,5,3
+P14,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,1,No,male,4,4,4,4
+P14,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,1,No,male,5,4,4,4
+P14,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,2,No,male,5,4,5,4
+P14,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,2,No,male,5,5,4,4
+P14,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,3,No,male,5,5,4,3
+P14,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,3,No,male,5,5,4,3
+P14,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,4,No,male,5,5,5,3
+P14,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,4,No,male,5,5,5,3
+P15,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,1,No,male,4,3,4,2
+P15,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,1,No,male,4,3,4,2
+P15,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,2,No,male,4,4,4,3
+P15,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,2,No,male,5,4,4,3
+P15,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,3,No,male,4,5,4,3
+P15,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,3,No,male,3,4,3,3
+P15,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,4,No,male,4,4,4,3
+P15,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,4,No,male,5,4,4,3
+P16,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,1,No,male,4,5,5,3
+P16,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,1,No,male,4,4,4,2
+P16,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,2,No,male,4,5,4,3
+P16,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,2,No,male,4,4,4,3
+P16,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,3,No,male,4,5,5,3
+P16,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,3,No,male,4,5,5,2
+P16,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,4,No,male,4,4,4,3
+P16,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,4,No,male,4,4,5,3
+P17,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,1,Yes,female,5,5,3,2
+P17,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,1,Yes,female,4,4,3,2
+P17,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,2,Yes,female,4,4,2,2
+P17,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,2,Yes,female,4,4,2,3
+P17,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,3,Yes,female,5,5,2,4
+P17,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,3,Yes,female,5,5,2,4
+P17,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,4,Yes,female,4,4,2,4
+P17,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,4,Yes,female,4,4,2,4
+P18,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,1,No,male,5,4,1,2
+P18,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,1,No,male,5,4,4,2
+P18,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,2,No,male,5,4,5,2
+P18,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,2,No,male,5,4,5,2
+P18,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,3,No,male,5,4,1,3
+P18,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,3,No,male,5,4,4,3
+P18,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,4,No,male,5,4,4,3
+P18,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,4,No,male,5,4,4,2
+P19,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,1,Yes,female,5,5,4,1
+P19,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,1,Yes,female,4,4,4,1
+P19,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,2,Yes,female,4,4,4,2
+P19,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,2,Yes,female,4,4,4,3
+P19,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,3,Yes,female,4,4,4,2
+P19,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,3,Yes,female,4,4,4,2
+P19,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,4,Yes,female,4,4,4,3
+P19,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,4,Yes,female,4,4,2,2
+P20,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,1,No,female,4,2,2,3
+P20,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,1,No,female,3,3,3,2
+P20,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,2,No,female,4,4,4,1
+P20,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,2,No,female,4,4,4,1
+P20,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,3,No,female,4,4,4,1
+P20,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,3,No,female,4,4,4,2
+P20,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,4,No,female,4,4,4,3
+P20,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,4,No,female,4,4,4,3
+P21,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,1,No,female,5,5,4,3
+P21,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,1,No,female,5,5,4,3
+P21,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,2,No,female,4,4,4,2
+P21,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,2,No,female,5,5,4,2
+P21,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,3,No,female,5,5,4,4
+P21,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,3,No,female,5,5,4,3
+P21,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,4,No,female,5,5,4,3
+P21,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,4,No,female,5,5,4,2
+P22,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,1,Yes,female,4,4,4,4
+P22,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,1,Yes,female,4,4,4,4
+P22,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,2,Yes,female,4,5,4,4
+P22,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,2,Yes,female,5,4,4,4
+P22,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,3,Yes,female,4,3,3,2
+P22,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,3,Yes,female,4,5,3,2
+P22,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,4,Yes,female,4,4,4,3
+P22,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,4,Yes,female,4,5,4,3
+P23,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,1,No,female,4,4,2,3
+P23,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,1,No,female,3,2,4,3
+P23,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,2,No,female,3,4,4,3
+P23,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,2,No,female,4,4,4,2
+P23,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,3,No,female,4,4,5,3
+P23,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,3,No,female,4,4,4,2
+P23,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,4,No,female,4,4,4,4
+P23,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,4,No,female,4,4,5,4
+P24,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,1,Yes,male,4,4,3,3
+P24,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,1,Yes,male,4,3,4,2
+P24,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,2,Yes,male,3,3,4,2
+P24,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,2,Yes,male,4,4,3,2
+P24,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,3,Yes,male,4,4,4,2
+P24,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,3,Yes,male,5,5,4,3
+P24,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,4,Yes,male,4,4,4,3
+P24,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,4,Yes,male,4,4,4,3
+P25,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,1,No,female,4,4,4,2
+P25,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,1,No,female,5,4,4,3
+P25,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,2,No,female,5,5,4,2
+P25,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,2,No,female,5,5,4,2
+P25,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,3,No,female,5,4,4,3
+P25,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,3,No,female,5,3,4,3
+P25,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,4,No,female,5,5,4,2
+P25,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,4,No,female,5,5,4,2
+P26,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,1,Yes,male,4,4,4,3
+P26,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,1,Yes,male,3,4,4,3
+P26,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,2,Yes,male,4,5,4,3
+P26,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,2,Yes,male,4,4,5,4
+P26,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,3,Yes,male,4,4,3,4
+P26,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,3,Yes,male,4,3,4,4
+P26,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,4,Yes,male,4,4,4,3
+P26,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,4,Yes,male,4,4,5,3
+P27,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,1,Yes,female,5,4,4,4
+P27,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,1,Yes,female,4,3,3,4
+P27,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,2,Yes,female,3,3,3,3
+P27,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,2,Yes,female,4,4,4,3
+P27,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,3,Yes,female,4,3,4,3
+P27,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,3,Yes,female,4,3,4,3
+P27,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,4,Yes,female,5,5,4,3
+P27,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,4,Yes,female,4,4,3,4
+P28,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,1,Yes,male,4,5,4,2
+P28,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,1,Yes,male,5,5,5,2
+P28,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,2,Yes,male,5,5,5,3
+P28,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,2,Yes,male,5,4,5,2
+P28,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,3,Yes,male,5,5,5,3
+P28,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,3,Yes,male,5,4,5,3
+P28,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,4,Yes,male,5,5,5,2
+P28,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,4,Yes,male,5,5,5,1
+P29,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,1,Yes,female,4,4,4,3
+P29,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,1,Yes,female,3,3,3,3
+P29,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,2,Yes,female,2,2,2,3
+P29,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,2,Yes,female,3,3,3,3
+P29,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,3,Yes,female,3,3,3,1
+P29,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,3,Yes,female,3,3,3,2
+P29,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,4,Yes,female,3,3,3,3
+P29,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,4,Yes,female,3,3,3,3
+P30,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,1,Yes,male,5,5,3,3
+P30,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,1,Yes,male,4,4,3,2
+P30,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,2,Yes,male,5,4,3,3
+P30,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,2,Yes,male,3,3,3,2
+P30,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,3,Yes,male,5,5,3,2
+P30,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,3,Yes,male,5,5,4,2
+P30,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,4,Yes,male,4,5,4,3
+P30,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,4,Yes,male,5,4,3,3
+P31,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,1,No,female,4,4,4,3
+P31,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,1,No,female,4,4,4,3
+P31,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,2,No,female,5,5,4,3
+P31,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,2,No,female,5,4,4,2
+P31,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,3,No,female,4,4,4,3
+P31,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,3,No,female,4,4,4,3
+P31,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,4,No,female,5,4,4,2
+P31,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,4,No,female,5,4,4,2
+P32,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,1,No,male,5,5,4,2
+P32,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,1,No,male,4,3,3,2
+P32,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,2,No,male,5,5,3,2
+P32,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,2,No,male,5,5,4,2
+P32,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,3,No,male,5,5,4,3
+P32,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,3,No,male,5,5,5,2
+P32,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,4,No,male,5,5,4,3
+P32,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,4,No,male,5,5,3,2
+P33,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,1,No,female,4,4,4,4
+P33,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,1,No,female,4,4,4,4
+P33,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,2,No,female,4,4,4,3
+P33,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,2,No,female,4,4,4,3
+P33,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,3,No,female,4,4,4,2
+P33,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,3,No,female,4,4,4,2
+P33,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,4,No,female,4,4,4,3
+P33,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,4,No,female,4,4,4,4
+P34,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,1,Yes,male,4,5,5,4
+P34,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,1,Yes,male,4,4,5,4
+P34,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,2,Yes,male,4,4,5,5
+P34,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,2,Yes,male,4,4,5,5
+P34,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,3,Yes,male,3,4,5,4
+P34,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,3,Yes,male,4,4,5,4
+P34,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,4,Yes,male,4,3,5,4
+P34,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,4,Yes,male,4,2,4,3
+P35,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,1,No,female,5,5,4,2
+P35,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,1,No,female,5,5,4,1
+P35,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,2,No,female,4,5,1,3
+P35,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,2,No,female,5,5,1,3
+P35,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,3,No,female,5,5,1,3
+P35,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,3,No,female,5,5,1,2
+P35,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,4,No,female,4,5,1,1
+P35,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,4,No,female,5,4,1,2
+P36,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,1,No,male,5,5,4,3
+P36,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,1,No,male,5,4,4,3
+P36,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,2,No,male,5,5,4,2
+P36,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,2,No,male,4,5,4,2
+P36,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,3,No,male,5,5,4,3
+P36,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,3,No,male,5,5,4,3
+P36,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,4,No,male,5,5,5,2
+P36,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,4,No,male,5,5,4,2
+P37,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,1,No,female,3,4,4,3
+P37,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,1,No,female,4,4,4,3
+P37,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,2,No,female,4,4,4,3
+P37,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,2,No,female,4,5,4,2
+P37,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,3,No,female,5,4,4,3
+P37,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,3,No,female,4,4,5,2
+P37,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,4,No,female,5,4,4,3
+P37,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,4,No,female,4,3,4,3
+P38,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,1,Yes,male,4,4,3,5
+P38,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,1,Yes,male,4,5,3,4
+P38,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,2,Yes,male,4,5,4,4
+P38,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,2,Yes,male,5,5,4,4
+P38,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,3,Yes,male,5,5,4,3
+P38,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,3,Yes,male,5,5,4,3
+P38,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,4,Yes,male,5,4,4,4
+P38,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,4,Yes,male,5,5,5,4
+P39,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,1,Yes,female,4,4,4,3
+P39,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,1,Yes,female,5,4,4,2
+P39,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,2,Yes,female,4,2,2,3
+P39,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,2,Yes,female,4,4,4,3
+P39,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,3,Yes,female,4,4,4,3
+P39,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,3,Yes,female,4,3,4,3
+P39,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,4,Yes,female,4,3,2,3
+P39,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,4,Yes,female,4,4,4,3
+P40,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,1,Yes,male,4,3,4,3
+P40,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,1,Yes,male,4,3,4,3
+P40,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,2,Yes,male,4,4,4,4
+P40,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,2,Yes,male,4,4,4,3
+P40,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,3,Yes,male,4,3,4,4
+P40,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,3,Yes,male,3,4,4,4
+P40,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,4,Yes,male,4,5,4,4
+P40,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,4,Yes,male,4,4,4,3
+P41,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,1,No,female,5,5,5,2
+P41,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,1,No,female,5,2,5,2
+P41,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,2,No,female,5,4,5,3
+P41,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,2,No,female,5,3,5,2
+P41,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,3,No,female,4,5,5,3
+P41,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,3,No,female,5,3,5,3
+P41,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,4,No,female,5,5,5,3
+P41,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,4,No,female,5,5,5,3
+P42,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,1,Yes,male,5,5,4,3
+P42,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,1,Yes,male,5,4,4,3
+P42,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,2,Yes,male,5,5,4,3
+P42,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,2,Yes,male,5,5,4,3
+P42,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,3,Yes,male,5,4,4,4
+P42,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,3,Yes,male,5,4,4,4
+P42,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,4,Yes,male,5,5,5,3
+P42,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,4,Yes,male,5,4,5,3
+P43,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,1,Yes,female,5,5,4,2
+P43,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,1,Yes,female,4,4,4,3
+P43,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,2,Yes,female,5,5,4,4
+P43,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,2,Yes,female,4,4,4,4
+P43,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,3,Yes,female,4,4,4,4
+P43,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,3,Yes,female,4,4,4,3
+P43,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,4,Yes,female,4,5,4,3
+P43,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,4,Yes,female,4,4,4,3
+P44,No Contact,Visual Guidance,A2,Limited,More Constrained,Technique,1,No,male,5,4,3,3
+P44,No Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,1,No,male,3,3,3,3
+P44,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,2,No,male,5,5,2,3
+P44,No Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,2,No,male,5,5,2,3
+P44,No Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,3,No,male,5,5,3,3
+P44,No Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,3,No,male,5,5,4,2
+P44,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,4,No,male,5,5,4,3
+P44,No Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,4,No,male,5,5,4,2
+P45,No Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,1,No,female,5,5,5,2
+P45,No Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,1,No,female,5,5,5,2
+P45,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,2,No,female,5,5,5,4
+P45,No Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,2,No,female,5,5,5,4
+P45,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,3,No,female,5,5,5,2
+P45,No Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,3,No,female,5,5,5,2
+P45,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,4,No,female,5,5,5,2
+P45,No Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,4,No,female,5,5,5,2
+P46,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,1,No,male,5,5,4,3
+P46,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,1,No,male,4,4,4,3
+P46,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,2,No,male,4,4,4,2
+P46,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,2,No,male,4,4,5,2
+P46,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,3,No,male,4,4,5,3
+P46,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,3,No,male,4,4,5,3
+P46,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,4,No,male,4,4,5,4
+P46,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,4,No,male,4,4,5,3
+P47,Contact,Visual Guidance,A2,Limited,More Constrained,Technique,1,Yes,male,3,4,4,3
+P47,Contact,Visual Guidance,A2,Limited,More Constrained,Challenge,1,Yes,male,3,4,3,3
+P47,Contact,Visual Guidance,B2,More Accessible,More Constrained,Technique,2,Yes,male,5,5,1,4
+P47,Contact,Visual Guidance,B2,More Accessible,More Constrained,Challenge,2,Yes,male,5,5,5,3
+P47,Contact,Visual Guidance,A1,Limited,Less Constrained,Technique,3,Yes,male,5,5,1,2
+P47,Contact,Visual Guidance,A1,Limited,Less Constrained,Challenge,3,Yes,male,5,5,1,2
+P47,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Technique,4,Yes,male,5,5,1,2
+P47,Contact,Visual Guidance,B1,More Accessible,Less Constrained,Challenge,4,Yes,male,5,5,1,2
+P48,Contact,Physiology Guidance,A1,Limited,Less Constrained,Technique,1,Yes,male,3,3,3,2
+P48,Contact,Physiology Guidance,A1,Limited,Less Constrained,Challenge,1,Yes,male,3,3,2,2
+P48,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Technique,2,Yes,male,4,4,2,2
+P48,Contact,Physiology Guidance,B1,More Accessible,Less Constrained,Challenge,2,Yes,male,3,3,2,2
+P48,Contact,Physiology Guidance,A2,Limited,More Constrained,Technique,3,Yes,male,4,4,2,3
+P48,Contact,Physiology Guidance,A2,Limited,More Constrained,Challenge,3,Yes,male,4,4,2,3
+P48,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Technique,4,Yes,male,4,4,2,3
+P48,Contact,Physiology Guidance,B2,More Accessible,More Constrained,Challenge,4,Yes,male,4,4,2,3

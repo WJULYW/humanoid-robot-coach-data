@@ -1,0 +1,49 @@
+participant_id,contact,guidance_basis,gender,coaching_experience,robot_experience,nars_interaction,nars_social,nars_emotion,touch_aversion,trust_propensity,trust_in_automation,perceived_intelligence
+P01,No Contact,Visual Guidance,male,Yes,2,3,3.6,3.667,3.455,2.833,3.083,2.6
+P02,Contact,Physiology Guidance,male,No,1,2,2.8,1,1.364,4.5,3.833,4.2
+P03,No Contact,Physiology Guidance,male,No,4,2.167,4,4.333,3.636,3,3.417,3.6
+P04,No Contact,Physiology Guidance,male,Yes,2,2.333,2.2,4,1.545,3.167,2.5,2.2
+P05,No Contact,Visual Guidance,female,No,2,2.833,3.4,2.333,2.182,3.5,4.667,4
+P06,No Contact,Physiology Guidance,male,No,3,1.5,3,2.333,2.818,3.833,4.083,4
+P07,No Contact,Visual Guidance,female,No,1,1.667,4,3.667,2,3,2.833,4
+P08,Contact,Visual Guidance,female,No,1,2,3.2,3,3.545,3,2.833,2.8
+P09,Contact,Visual Guidance,female,No,2,4,4.8,4.667,3.636,2,3.667,4.2
+P10,No Contact,Physiology Guidance,male,No,1,2.833,3.2,3.667,3.273,2.167,3.917,4
+P11,Contact,Physiology Guidance,male,No,1,2.833,3,2.667,2.818,3.833,3.833,4
+P12,No Contact,Physiology Guidance,male,Yes,1,2.5,3.4,2.667,3.364,3.167,3,2.6
+P13,Contact,Physiology Guidance,male,No,1,1.5,4.2,4.333,2.455,2.833,3.5,3.8
+P14,No Contact,Physiology Guidance,male,No,1,1.5,3.8,2.667,2.636,3.333,3.667,3.2
+P15,No Contact,Visual Guidance,male,No,1,1,3.2,2.667,2.182,3.5,3.333,3
+P16,Contact,Visual Guidance,male,No,1,2.167,3.2,4,4.273,3.167,4,3.8
+P17,No Contact,Physiology Guidance,female,Yes,3,2,3.8,2.667,4,3.667,2.25,2.6
+P18,Contact,Physiology Guidance,male,No,2,1.333,2.8,3,3.091,4.167,4.25,3.6
+P19,Contact,Physiology Guidance,female,Yes,1,1.667,1,2.333,3.182,3.667,4,4
+P20,Contact,Physiology Guidance,female,No,2,3,3.6,2.333,3.455,3.5,3.917,4
+P21,Contact,Physiology Guidance,female,No,2,2.5,3.4,3.667,4.182,3.667,4.25,4
+P22,Contact,Physiology Guidance,female,Yes,1,1.833,3.4,3,2.636,3.167,4,4
+P23,No Contact,Visual Guidance,female,No,1,3,3,2.333,4,3,2.917,3.2
+P24,Contact,Physiology Guidance,male,Yes,1,2.167,3,2.333,2.182,3.333,3.5,3
+P25,Contact,Visual Guidance,female,No,2,2.5,3.4,2.667,3.364,3.5,4.083,4
+P26,No Contact,Physiology Guidance,male,Yes,2,2,3.4,2.333,3.182,3,3.333,3.8
+P27,No Contact,Physiology Guidance,female,Yes,5,3,3.8,4,3.364,2.667,3.417,3.4
+P28,No Contact,Visual Guidance,male,Yes,1,1.667,2.6,3,2.636,3.667,4.583,4.6
+P29,Contact,Visual Guidance,female,Yes,1,1,3,4,3.545,3.167,2.833,2.2
+P30,Contact,Visual Guidance,male,Yes,1,2.167,2.4,2.333,3.091,3.667,4,3.2
+P31,Contact,Visual Guidance,female,No,1,1.833,2.4,2,2.727,4.5,4.25,3.6
+P32,No Contact,Visual Guidance,male,No,2,2.333,3,3,2.909,3.5,4.25,4
+P33,No Contact,Physiology Guidance,female,No,3,1.333,2.6,3,3.091,4,3.833,3.4
+P34,Contact,Visual Guidance,male,Yes,1,1.5,3,1.667,3.091,4,3.75,3.8
+P35,Contact,Visual Guidance,female,No,1,1.167,1,1,4.636,4.167,4.667,4.8
+P36,Contact,Visual Guidance,male,No,1,1,2.8,3,4.273,2.667,4,5
+P37,No Contact,Visual Guidance,female,No,1,2.5,3.2,2,3.636,3.667,3.917,3.4
+P38,Contact,Physiology Guidance,male,Yes,4,3.333,4,3.667,3.364,3.5,3.583,3.8
+P39,Contact,Physiology Guidance,female,Yes,1,2.333,3.6,3.667,3.455,3.833,3.417,2.2
+P40,No Contact,Visual Guidance,male,Yes,2,2.833,4.4,2.667,3.273,2.5,3.583,3.8
+P41,No Contact,Visual Guidance,female,No,1,1.833,3,3,3.273,4.333,3.917,5
+P42,No Contact,Visual Guidance,male,Yes,3,1.333,3.2,3,1.545,3.5,4.167,4.2
+P43,No Contact,Physiology Guidance,female,Yes,1,1,2.8,2.333,2.636,3.667,4.167,4
+P44,No Contact,Visual Guidance,male,No,1,2,2.6,3,1.727,4.167,4.083,4
+P45,No Contact,Physiology Guidance,female,No,1,1.5,3.6,1,3.727,4.5,4.333,4.4
+P46,Contact,Visual Guidance,male,No,4,3.5,3.6,4,5,1.833,3.083,3.8
+P47,Contact,Visual Guidance,male,Yes,4,2.833,3.2,2.333,3.273,3.667,4.417,5
+P48,Contact,Physiology Guidance,male,Yes,2,2.5,2.2,3,3.273,2.667,3.333,3
